@@ -566,34 +566,7 @@ th{
   /* margin: 0 0 0 10px; */
   padding-left: 11%;
   margin-right: 5px;
-}
-@media screen and (max-width: 1800px) {
-    .text {
-      font-size: 200px;
-  }
-}
+}        
 
-@media screen and (max-width: 960px) {
-    .text {
-      font-size: 150px;
-  }
-}
 
-@media screen and (max-width: 715px) {
-    .text {
-      font-size: 120px;
-  }
-}
-
-@media screen and (max-width: 578px) {
-    .text {
-      font-size: 90px;
-  }
-}
-
-@media screen and (max-width: 440px) {
-    .text {
-      font-size: 60px;
-  }
-}
 
